@@ -1,0 +1,8 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/feature_pic.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/brighten.png</file>
+        <file>icons/darken.png</file>
+ </qresource>
+ </RCC>
